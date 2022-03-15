@@ -1,0 +1,36 @@
+{
+  "id": "1b497f13-e3a0-49d6-a440-f84c166e7b6b",
+  "name": "atendimento.localizacao",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Estamos localizados na Avenida Paulista 124, 10 andar - São Paulo.",
+            "Ficamos em São Paulo na Avenida Paulista 124, 10 andar."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "da556c6e-09c2-4deb-b23c-7ee9ef9b0e44",
+    "data": [
+      {
+        "text": "ta aberto ",
+        "userDefined": false
+      },
+      {
+        "text": "agora",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4901d195-e844-44eb-ac51-9e9e854371a2",
+    "data": [
+      {
+        "text": "abre de ",
+        "userDefined": false
+      },
+      {
+        "text": "domingo",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1a0cbb11-1c74-4ed3-8fd8-f114f7d8a9f8",
+    "data": [
+      {
+        "text": "Qual o horário de funcionamento?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d1faa2cf-bb70-4045-b427-e082e4673d47",
+    "data": [
+      {
+        "text": "Que horas abre?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2450204c-a1b7-4ba0-9de4-d137141a426d",
+    "data": [
+      {
+        "text": "que horas fecha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

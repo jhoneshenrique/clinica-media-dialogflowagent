@@ -1,0 +1,67 @@
+[
+  {
+    "id": "ca716ec4-89d5-4cd2-925b-0a273023a0b3",
+    "data": [
+      {
+        "text": "Diabetes, como saber se tenho?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "df1bca07-e473-45c4-be0a-12a97518aa7e",
+    "data": [
+      {
+        "text": "Como identificar diabetes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4526fd06-99ee-468b-a5ed-c5bdee99ffc6",
+    "data": [
+      {
+        "text": "Como é a diabetes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0f878afb-4912-4d88-b89c-c4ac3b7cb24d",
+    "data": [
+      {
+        "text": "Como saber se tenho diabetes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "864f1eb7-8953-4218-a215-6af62bb352cc",
+    "data": [
+      {
+        "text": "Quais os sintomas da diabetes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

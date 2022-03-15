@@ -1,0 +1,67 @@
+[
+  {
+    "id": "f603d5f2-31b0-4990-91a4-19e5552444d5",
+    "data": [
+      {
+        "text": "Quanto vou pagar pela consulta?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d32962a8-0a2f-4acc-bfff-704564c2df8d",
+    "data": [
+      {
+        "text": "preço da consulta?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "78711302-825c-433d-8fc8-95fe8f1dffe7",
+    "data": [
+      {
+        "text": "valor da consulta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "181775af-b03e-4dd0-affa-675eae8a714d",
+    "data": [
+      {
+        "text": "Qual o preço da consulta?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "38f745c2-860f-48de-84e9-57854524c22f",
+    "data": [
+      {
+        "text": "Quanto custa a consulta?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

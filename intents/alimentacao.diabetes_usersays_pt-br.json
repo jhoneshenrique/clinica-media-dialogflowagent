@@ -1,0 +1,36 @@
+[
+  {
+    "id": "2b7a0116-fe06-4773-b9f8-3db4a1154235",
+    "data": [
+      {
+        "text": "Como cuidar da ",
+        "userDefined": false
+      },
+      {
+        "text": "alimentação",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3b55edd5-edc2-4c87-a6e2-c7836ef3fc6b",
+    "data": [
+      {
+        "text": "O que posso comer se tenho diabetes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

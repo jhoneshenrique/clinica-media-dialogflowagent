@@ -1,0 +1,169 @@
+[
+  {
+    "id": "9dd9d842-5b98-4c05-8b1a-a1a3fbfc4f98",
+    "data": [
+      {
+        "text": "Gostaria de marcar ",
+        "userDefined": false
+      },
+      {
+        "text": "uma",
+        "userDefined": false
+      },
+      {
+        "text": " consulta ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "amanhã",
+        "userDefined": true
+      },
+      {
+        "text": " ás ",
+        "userDefined": false
+      },
+      {
+        "text": "13:25",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7d69f435-89ee-4aa3-93ba-cc64818e2fd2",
+    "data": [
+      {
+        "text": "Agendamento",
+        "userDefined": false
+      },
+      {
+        "text": " consulta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "2be0e79d-8887-440d-879e-429e652d1b77",
+    "data": [
+      {
+        "text": "Agenda consulta",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "amanhã a noite",
+        "meta": "@sys.date",
+        "alias": "dataconsulta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "66c446c5-0bf8-4148-a96f-d85acc42bb6b",
+    "data": [
+      {
+        "text": "Quero agendar consulta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e030d266-0867-4e7d-89fd-a1550a747d93",
+    "data": [
+      {
+        "text": "Agenda consulta com",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pediatra",
+        "meta": "@especialidade",
+        "alias": "especialidade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "808490ac-6749-4f0b-bbc3-97c25882b2dd",
+    "data": [
+      {
+        "text": "Preciso agendar consulta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8e06db70-da13-4ffb-990e-ca45a4b9e952",
+    "data": [
+      {
+        "text": "Quero agenda uma consulta para ",
+        "userDefined": false
+      },
+      {
+        "text": "hoje",
+        "meta": "@sys.date",
+        "alias": "dataconsulta",
+        "userDefined": false
+      },
+      {
+        "text": " com o ",
+        "userDefined": false
+      },
+      {
+        "text": "ortopedista",
+        "meta": "@especialidade",
+        "alias": "especialidade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "d78c4ef9-6bc2-4ec1-8d64-2a4ecdac8228",
+    "data": [
+      {
+        "text": "data da minha consulta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6aed39cc-70ce-487f-882e-5f4fbae6c61b",
+    "data": [
+      {
+        "text": "Para",
+        "userDefined": false
+      },
+      {
+        "text": " quando é minha consula",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "02616347-ba8c-48ce-a42a-593975e407c6",
+    "data": [
+      {
+        "text": "Quando é ",
+        "userDefined": false
+      },
+      {
+        "text": "minha consulta",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b22d898a-231b-434f-8bc9-c74a1e4c9038",
+    "data": [
+      {
+        "text": "Gostaria de relembrar a data da minha consulta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

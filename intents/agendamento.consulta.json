@@ -1,0 +1,125 @@
+{
+  "id": "96575962-15bd-4623-868d-624b803ebdea",
+  "name": "agendamento.consulta",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Input.dados.consulta",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "32185618-a8e7-4d81-bc21-9599104935ef",
+          "name": "especialidade",
+          "required": true,
+          "dataType": "@especialidade",
+          "value": "$especialidade",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "Para qual especialidade você quer marcar a consulta?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "fbb6a821-bd7b-48ce-84f9-3c6dbac56a26",
+          "name": "dataconsulta",
+          "required": true,
+          "dataType": "@sys.date",
+          "value": "$dataconsulta",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "Para qual dia você gostaria de marcar a consulta?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4c9f55a7-8116-4de1-8818-193bf8784861",
+          "name": "horarioconsulta",
+          "required": true,
+          "dataType": "@sys.time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "Qual o horário da consulta?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "b3af6e4a-cef3-4c78-83a9-84a64b9c5830",
+          "name": "nomepaciente",
+          "required": true,
+          "dataType": "@sys.any",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "Qual o nome do paciente?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "a706f4bf-74b3-45ba-8d30-23eadb40b96f",
+          "name": "emailpaciente",
+          "required": true,
+          "dataType": "@sys.any",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "pt-br",
+              "value": "Qual o e-mail de contato do paciente?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

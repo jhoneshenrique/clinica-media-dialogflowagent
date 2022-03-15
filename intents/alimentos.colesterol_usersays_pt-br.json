@@ -1,0 +1,57 @@
+[
+  {
+    "id": "c7602f46-a714-4872-b0e5-7587543e912d",
+    "data": [
+      {
+        "text": "Como cuidar da alimentação?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "60760d80-1c1d-410b-92a3-8dc7dd74c3e3",
+    "data": [
+      {
+        "text": "E sobre ",
+        "userDefined": false
+      },
+      {
+        "text": "a alimentação",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "845c89bc-f40b-4d64-91aa-6ffa189e4bda",
+    "data": [
+      {
+        "text": "O que comer ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "userDefined": false
+      },
+      {
+        "text": " baixar o colesterol",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

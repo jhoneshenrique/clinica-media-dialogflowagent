@@ -1,0 +1,79 @@
+[
+  {
+    "id": "414c304f-83f4-4095-925a-db30a90cdfe5",
+    "data": [
+      {
+        "text": "fica aonde?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "de4c4082-0d98-4ddf-8d37-d88331cb39ca",
+    "data": [
+      {
+        "text": "como",
+        "userDefined": false
+      },
+      {
+        "text": " chego aí?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4dafc0bf-e438-4b53-b4eb-a28ab1bcbdfd",
+    "data": [
+      {
+        "text": "qual o endereço?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c65fc1f6-a458-4c1a-9496-002f224fe2cc",
+    "data": [
+      {
+        "text": "onde estão localizados?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4c100440-f2bf-4b98-9d33-b50e782574d6",
+    "data": [
+      {
+        "text": "onde fica ",
+        "userDefined": false
+      },
+      {
+        "text": "a clinica",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

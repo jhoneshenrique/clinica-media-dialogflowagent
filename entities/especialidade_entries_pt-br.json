@@ -1,0 +1,39 @@
+[
+  {
+    "value": "Pediatria",
+    "synonyms": [
+      "Pediatria",
+      "Pediatra"
+    ]
+  },
+  {
+    "value": "Fonoaudiologia",
+    "synonyms": [
+      "Fonoaudiologia",
+      "Fonoaudiologo",
+      "Fono"
+    ]
+  },
+  {
+    "value": "Ginecologia",
+    "synonyms": [
+      "Ginecologia",
+      "Ginecologista"
+    ]
+  },
+  {
+    "value": "Ortopedia",
+    "synonyms": [
+      "Ortopedia",
+      "Ortopedista"
+    ]
+  },
+  {
+    "value": "Cardiologia",
+    "synonyms": [
+      "Cardiologia",
+      "Cardiologista",
+      "Cardio"
+    ]
+  }
+]

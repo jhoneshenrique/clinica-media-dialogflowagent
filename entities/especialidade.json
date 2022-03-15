@@ -1,0 +1,9 @@
+{
+  "id": "61e44029-72db-4bce-93e7-0fe2b725e975",
+  "name": "especialidade",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}
